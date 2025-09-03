@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv01_MathLib", "Øv01_Math
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv01_Numbers", "Øv01_Numbers\Øv01_Numbers.csproj", "{46B8FF70-375D-457E-BFE4-EDB95CE4EC5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv01_PersonTest", "Øv01_PersonTest\Øv01_PersonTest.csproj", "{4871B0F3-503A-4617-9A3B-617DBC6BD93F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv01_Strings", "Øv01_Strings\Øv01_Strings.csproj", "{1451148F-A3C4-408E-904B-868DB95BDFE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{46B8FF70-375D-457E-BFE4-EDB95CE4EC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46B8FF70-375D-457E-BFE4-EDB95CE4EC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46B8FF70-375D-457E-BFE4-EDB95CE4EC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4871B0F3-503A-4617-9A3B-617DBC6BD93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4871B0F3-503A-4617-9A3B-617DBC6BD93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4871B0F3-503A-4617-9A3B-617DBC6BD93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4871B0F3-503A-4617-9A3B-617DBC6BD93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1451148F-A3C4-408E-904B-868DB95BDFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1451148F-A3C4-408E-904B-868DB95BDFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1451148F-A3C4-408E-904B-868DB95BDFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1451148F-A3C4-408E-904B-868DB95BDFE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
