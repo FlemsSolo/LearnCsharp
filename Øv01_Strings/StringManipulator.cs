@@ -12,5 +12,6 @@ namespace Strings
         public string MakeWord(string outer, string word)
         {
             return $"{outer.Substring(0, 2)}{word}{outer.Substring(2)}";
-        }    }
+        }    
+    }
 }
