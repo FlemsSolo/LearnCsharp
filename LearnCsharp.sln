@@ -8,6 +8,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv01_PersonTest", "Øv01_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv01_Strings", "Øv01_Strings\Øv01_Strings.csproj", "{1451148F-A3C4-408E-904B-868DB95BDFE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0202_LambdaSort", "Øv0202_LambdaSort\Øv0202_LambdaSort.csproj", "{6EE8194C-AD72-4C06-AE9B-15D18EF5F7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0203_Lambda_LINQ_Filter", "Øv0203_Lambda_LINQ_Filter\Øv0203_Lambda_LINQ_Filter.csproj", "{1D451D6F-BB5F-4408-B402-7A1E3724F575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0204 Handling Nullable Value Types", "Øv0204 Handling Nullable Value Types\Øv0204 Handling Nullable Value Types.csproj", "{7EC0871A-72B6-4CE9-B465-AE65234C43FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0205 Nullable Reference Types with Class Properties", "Øv0205 Nullable Reference Types with Class Properties\Øv0205 Nullable Reference Types with Class Properties.csproj", "{666B441C-4581-4B7D-9667-9E89E7ABF185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0206 Working with Nullable Types and LINQ", "Øv0206 Working with Nullable Types and LINQ\Øv0206 Working with Nullable Types and LINQ.csproj", "{4DA6C3E4-BCF5-4553-BF22-C5EB759F1C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0207 Nullable References with Methods", "Øv0207 Nullable References with Methods\Øv0207 Nullable References with Methods.csproj", "{4A5C2A0E-FB70-4FD7-8520-DCC2F98E0A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0208 Nullability Warnings and the exclam mark Operator", "Øv0208 Nullability Warnings and the exclam mark Operator\Øv0208 Nullability Warnings and the exclam mark Operator.csproj", "{3D4D6698-D80E-459D-9DF0-E449B228B838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0210 Creating a Simple Task", "Øv0210 Creating a Simple Task\Øv0210 Creating a Simple Task.csproj", "{BCE6B0A4-39D9-4390-B4D6-9F570942C487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0211 Returning a Value from a Task", "Øv0211 Returning a Value from a Task\Øv0211 Returning a Value from a Task.csproj", "{BB7B0110-1070-4419-B51D-6935B01925FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øv0219 Async File I_O with async and await", "Øv0219 Async File I_O with async and await\Øv0219 Async File I_O with async and await.csproj", "{FA7E1705-A972-4901-ABE0-8727EB9DDDF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +50,45 @@ Global
 		{1451148F-A3C4-408E-904B-868DB95BDFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1451148F-A3C4-408E-904B-868DB95BDFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1451148F-A3C4-408E-904B-868DB95BDFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE8194C-AD72-4C06-AE9B-15D18EF5F7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE8194C-AD72-4C06-AE9B-15D18EF5F7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE8194C-AD72-4C06-AE9B-15D18EF5F7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE8194C-AD72-4C06-AE9B-15D18EF5F7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D451D6F-BB5F-4408-B402-7A1E3724F575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D451D6F-BB5F-4408-B402-7A1E3724F575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D451D6F-BB5F-4408-B402-7A1E3724F575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D451D6F-BB5F-4408-B402-7A1E3724F575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC0871A-72B6-4CE9-B465-AE65234C43FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC0871A-72B6-4CE9-B465-AE65234C43FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC0871A-72B6-4CE9-B465-AE65234C43FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC0871A-72B6-4CE9-B465-AE65234C43FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666B441C-4581-4B7D-9667-9E89E7ABF185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666B441C-4581-4B7D-9667-9E89E7ABF185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666B441C-4581-4B7D-9667-9E89E7ABF185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666B441C-4581-4B7D-9667-9E89E7ABF185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA6C3E4-BCF5-4553-BF22-C5EB759F1C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA6C3E4-BCF5-4553-BF22-C5EB759F1C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA6C3E4-BCF5-4553-BF22-C5EB759F1C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA6C3E4-BCF5-4553-BF22-C5EB759F1C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5C2A0E-FB70-4FD7-8520-DCC2F98E0A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5C2A0E-FB70-4FD7-8520-DCC2F98E0A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5C2A0E-FB70-4FD7-8520-DCC2F98E0A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5C2A0E-FB70-4FD7-8520-DCC2F98E0A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4D6698-D80E-459D-9DF0-E449B228B838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4D6698-D80E-459D-9DF0-E449B228B838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4D6698-D80E-459D-9DF0-E449B228B838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4D6698-D80E-459D-9DF0-E449B228B838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE6B0A4-39D9-4390-B4D6-9F570942C487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE6B0A4-39D9-4390-B4D6-9F570942C487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE6B0A4-39D9-4390-B4D6-9F570942C487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE6B0A4-39D9-4390-B4D6-9F570942C487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7B0110-1070-4419-B51D-6935B01925FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7B0110-1070-4419-B51D-6935B01925FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7B0110-1070-4419-B51D-6935B01925FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7B0110-1070-4419-B51D-6935B01925FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7E1705-A972-4901-ABE0-8727EB9DDDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7E1705-A972-4901-ABE0-8727EB9DDDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7E1705-A972-4901-ABE0-8727EB9DDDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7E1705-A972-4901-ABE0-8727EB9DDDF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
