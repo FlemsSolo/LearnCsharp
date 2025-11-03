@@ -1,0 +1,6 @@
+@Øv0406_PUT_Request_using_HttpClient_HostAddress = http://localhost:5298
+
+GET {{Øv0406_PUT_Request_using_HttpClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@Øv0405_POST_Request_using_HttpClient_HostAddress = http://localhost:5203
+
+GET {{Øv0405_POST_Request_using_HttpClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

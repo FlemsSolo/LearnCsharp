@@ -1,0 +1,6 @@
+@Øv0410_Create_a_POST_Endpoint_to_Add_a_New_Post_HostAddress = http://localhost:5123
+
+GET {{Øv0410_Create_a_POST_Endpoint_to_Add_a_New_Post_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@Øv0409_Create_a_GET_Endpoint_to_Retrieve_a_Specific_Post_HostAddress = http://localhost:5254
+
+GET {{Øv0409_Create_a_GET_Endpoint_to_Retrieve_a_Specific_Post_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

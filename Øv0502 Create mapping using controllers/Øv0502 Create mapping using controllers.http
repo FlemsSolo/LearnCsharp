@@ -1,0 +1,6 @@
+@Øv0502_Create_mapping_using_controllers_HostAddress = http://localhost:88
+
+GET {{Øv0502_Create_mapping_using_controllers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

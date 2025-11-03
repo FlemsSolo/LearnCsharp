@@ -1,0 +1,6 @@
+@ØV0408_Create_a_Basic_GET_Endpoint_for_Posts_HostAddress = http://localhost:5053
+
+GET {{ØV0408_Create_a_Basic_GET_Endpoint_for_Posts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

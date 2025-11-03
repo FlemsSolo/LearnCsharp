@@ -1,0 +1,6 @@
+@Øv0501_Setting_Up_a_Basic_Controller_based_WEB_API_HostAddress = http://localhost:5263
+
+GET {{Øv0501_Setting_Up_a_Basic_Controller_based_WEB_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
